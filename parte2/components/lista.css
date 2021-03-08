@@ -1,0 +1,12 @@
+.lista{
+    width: 1200px;
+    height: 46px;
+    
+    justify-content: center;
+}
+.lista .item{
+    
+    background-color: #F5F5F5;
+    
+    table-layout: auto;
+}
